@@ -7,7 +7,7 @@ const ContactUs = () => {
       <Head>
         <title>Contact Us</title>
       </Head>
-      
+
       <main>
         {/* Page Banner */}
         <div className="page-banner container-fluid no-padding">

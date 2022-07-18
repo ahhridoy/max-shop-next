@@ -7,7 +7,7 @@ const Blog = () => {
       <Head>
         <title>Blog</title>
       </Head>
-      
+
       <main>
         {/* Page Banner */}
         <div className="page-banner container-fluid no-padding">

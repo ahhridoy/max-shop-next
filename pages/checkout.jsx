@@ -7,7 +7,7 @@ const Checkout = () => {
       <Head>
         <title>Checkout</title>
       </Head>
-      
+
       <main>
         {/* Page Banner */}
         <div className="page-banner container-fluid no-padding">
